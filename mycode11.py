@@ -1,6 +1,2 @@
-
-
-
-
-print ("Hello mr.chetan")
+print ("Hello mr.chetan how r u")
 
